@@ -1,4 +1,4 @@
-# 🧑‍💻 - About me
+# 🧑‍💻 About me
 Junior Software Engineer | JavaScript Enthusiast | Node.js Developer | Discord.js | Vue.js
 
 #### 🔗 Can be found on
@@ -10,10 +10,8 @@ Junior Software Engineer | JavaScript Enthusiast | Node.js Developer | Discord.j
 [![mal](https://img.shields.io/badge/myanimelist-2E51A2.svg?style=for-the-badge&logo=myanimelist&logoColor=white)]([https://](https://myanimelist.net/profile/GabuTheDev))
 [![SPOTIFY](https://img.shields.io/badge/spotify-%1DB954.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/g9fvsxz3p7oj05p1t1wln0tzh)
 [![TikTok](https://img.shields.io/badge/tiktok-000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@gabuthedev)
--
 
 ## 🚀 Skills
----
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,14 +23,11 @@ Junior Software Engineer | JavaScript Enthusiast | Node.js Developer | Discord.j
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-  -
----
-## 📊 GitHub Stats:
+
+## 📊 Statistics
 ![](https://github-readme-stats.vercel.app/api?username=GabuTheDev&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github#gh-dark-mode-only)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GabuTheDev&theme=transparent&hide_border=true#gh-dark-mode-only)
 
----
-
-## 🙌 Support my work:
+## 🙌 Support my work
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gabuthedev)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gabuthedev) 
