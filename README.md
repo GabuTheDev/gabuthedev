@@ -26,5 +26,4 @@ Junior Software Engineer | JavaScript Enthusiast | Node.js Developer | Discord.j
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GabuTheDev&theme=transparent&hide_border=true#gh-dark-mode-only)
 
 ## 🙌 Support my work
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gabuthedev)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gabuthedev) 
+[![BuyMeACoffee](https://img.shields.io/badge/buymeacoffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=312b00)](https://buymeacoffee.com/gabuthedev)
