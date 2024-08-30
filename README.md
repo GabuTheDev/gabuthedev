@@ -2,7 +2,7 @@
 Junior Software Engineer | JavaScript Enthusiast | Node.js Developer | Discord.js | Vue.js
 
 #### 🔗 Can be found on
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gabuthedev)
+[![Twitter](https://img.shields.io/badge/twitter-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/gabuthedev)
 [![Twitch](https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/gabuthedev) 
 [![Reddit](https://img.shields.io/badge/reddit-FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/gabuthedev)
 [![YouTube](https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@gabuthedev) 
