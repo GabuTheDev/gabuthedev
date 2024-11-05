@@ -1,9 +1,11 @@
-# 🧑‍💻 About me
-Junior Software Engineer | JavaScript Enthusiast | Node.js Developer | Discord.js | Vue.js
+# 👋 Hey there!
+👨‍💻 I’m Gabriel, a self-taught developer and Software Engineering student. You’ll usually find me tinkering with Discord bots, Nuxt projects and geeking out over Bun.js or any shiny new tech that comes my way. Always exploring, always building. 🚀
 
-#### 🔗 Can be found on
+#### 🔗 My links
+You can find me pretty much everywhere under the nickname of `GabuTheDev`, but to ease you out of a search, here are some quick links:
+
 [![Twitter](https://img.shields.io/badge/twitter-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/gabuthedev)
-[![Bsky](https://img.shields.io/badge/bluesky-0285FF.svg?style=for-the-badge&logo=bluesky&logoColor=white)](https://twitter.com/gabuthedev)
+[![Bsky](https://img.shields.io/badge/bluesky-0285FF.svg?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/gabuthedev.gabu.moe)
 [![Twitch](https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/gabuthedev) 
 [![Reddit](https://img.shields.io/badge/reddit-FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/gabuthedev)
 [![YouTube](https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@gabuthedev) 
@@ -25,8 +27,11 @@ Junior Software Engineer | JavaScript Enthusiast | Node.js Developer | Discord.j
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 Statistics
-![](https://github-readme-stats.vercel.app/api?username=GabuTheDev&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github#gh-dark-mode-only)
-![](https://github-readme-streak-stats.herokuapp.com/?user=GabuTheDev&theme=transparent&hide_border=true#gh-dark-mode-only)
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=GabuTheDev&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github#gh-dark-mode-only" width="350">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabuTheDev&theme=transparent&hide_border=true#gh-dark-mode-only" width="350">
+</div>
 
 ## 🙌 Support my work
 [![BuyMeACoffee](https://img.shields.io/badge/buymeacoffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=312b00)](https://buymeacoffee.com/gabuthedev)
