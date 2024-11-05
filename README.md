@@ -12,14 +12,16 @@ Junior Software Engineer | JavaScript Enthusiast | Node.js Developer | Discord.j
 [![SPOTIFY](https://img.shields.io/badge/spotify-%1DB954.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/g9fvsxz3p7oj05p1t1wln0tzh)
 [![TikTok](https://img.shields.io/badge/tiktok-000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@gabuthedev)
 
-## 🚀 Tech Stack
+## 🛠️ Personal Toolkit
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![arch](https://img.shields.io/badge/Arch-1793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
+![jetbrains](https://img.shields.io/badge/jetbrains_ide-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%3178C6)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![BunJS](https://img.shields.io/badge/bun-14151a?style=for-the-badge&logo=bun&logoColor=f9f1e1)
 ![NodeJS](https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongo-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	
-![Vue.js](https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
+![Mongoose](https://img.shields.io/badge/mongoose-880000.svg?style=for-the-badge&logo=mongoose&logoColor=white) 	
+![Nuxt](https://img.shields.io/badge/nuxt-00DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 Statistics
