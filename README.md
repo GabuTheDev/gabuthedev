@@ -16,7 +16,7 @@ You can find me pretty much everywhere under the nickname of `GabuTheDev`, but t
 
 ## 🛠️ Personal Toolkit
 
-![arch](https://img.shields.io/badge/Arch-1793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
+![ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![jetbrains](https://img.shields.io/badge/jetbrains_ide-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%3178C6)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
