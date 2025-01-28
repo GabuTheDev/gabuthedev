@@ -23,7 +23,7 @@ You can find me pretty much everywhere under the nickname of `GabuTheDev`, but t
 ![BunJS](https://img.shields.io/badge/bun-14151a?style=for-the-badge&logo=bun&logoColor=f9f1e1)
 ![NodeJS](https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/mongoose-880000.svg?style=for-the-badge&logo=mongoose&logoColor=white) 	
-![Nuxt](https://img.shields.io/badge/nuxt-00DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white) 
+![Nuxt](https://img.shields.io/badge/nuxt-00DC82.svg?style=for-the-badge&logo=nuxt&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 Statistics
