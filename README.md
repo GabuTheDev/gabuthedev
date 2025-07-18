@@ -34,4 +34,5 @@ You can find me pretty much everywhere under the nickname of `GabuTheDev`, but t
 </div>
 
 ## 🙌 Support my work
-[![BuyMeACoffee](https://img.shields.io/badge/buymeacoffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=312b00)](https://buymeacoffee.com/gabuthedev)
+[![Kofi](https://img.shields.io/badge/kofi-FF6433?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/gabuthedev)
+[![Revolut](https://img.shields.io/badge/revolut-191C1F?style=for-the-badge&logo=revolut&logoColor=white)](https://revolut.me/gabuthedev)
