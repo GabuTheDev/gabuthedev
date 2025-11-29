@@ -15,7 +15,7 @@ Here's a list of the tech I'm proficient in (or comfortable using), along with t
 [![](https://img.shields.io/badge/jetbrains_ide-000?style=for-the-badge&logo=jetbrains&logoColor=white)]()
 [![](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![](https://img.shields.io/badge/bun-14151a?style=for-the-badge&logo=bun&logoColor=white)]()
-[![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)]()
+[![](https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=cp&logoColor=white)]()
 [![](https://img.shields.io/badge/WSL-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![](https://img.shields.io/badge/hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)]()
