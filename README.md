@@ -7,7 +7,9 @@ I like to keep things **simple, modular, and efficient**, with a strong focus on
 I don't rely on claude code or anything similar, being against this whole 'vibe-coding' phenomenon.  
 I prefer learning the classic way: reading the docs → experimenting → refining through trial and error.
 
-I’m currently contributing as a code maintainer at [tosuapp/tosu](https://github.com/tosuapp/tosu).  
+I’m currently contributing as:
+- Core Developer at [tosuapp/tosu](https://github.com/tosuapp/tosu).
+- Full-Stack Developer at [Transilvania Star Group](https://tsg.unitbv.ro/).
 
 ## 🛠️ Tech & Tools  
 Here's a list of the tech I'm proficient in (or comfortable using), along with the tools and services I work with.
